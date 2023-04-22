@@ -14,7 +14,7 @@ Python unless otherwise noted.
 
 ## Recipes
 
-- **Resample KDE** ([Notebook](https://github.com/Hvass-Labs/Code-Recipes/blob/master/Resample-KDE.ipynb)) ([Google Colab](https://colab.research.google.com/github/Hvass-Labs/Code-Recipes/blob/master/Resample-KDE.ipynb)) </br> Resample a Probability Density Function (PDF) estimator such as the Kernel Density Estimation (KDE) that has been fitted to some data. This is useful if you want to save and load the KDE without saving all the raw data. We also show how to draw random samples from a histogram.
+- **Resample KDE** ([Notebook](https://github.com/Hvass-Labs/Code-Recipes/blob/main/Resample-KDE.ipynb)) ([Google Colab](https://colab.research.google.com/github/Hvass-Labs/Code-Recipes/blob/main/Resample-KDE.ipynb)) </br> Resample a Probability Density Function (PDF) estimator such as the Kernel Density Estimation (KDE) that has been fitted to some data. This is useful if you want to save and load the KDE without saving all the raw data. We also show how to draw random samples from a histogram.
 
 
 ## Run in Google Colab
@@ -91,7 +91,7 @@ edit and run the Notebooks:
 ## License (MIT)
 
 This is published under the
-[MIT License](https://github.com/Hvass-Labs/Code-Recipes/blob/master/LICENSE)
+[MIT License](https://github.com/Hvass-Labs/Code-Recipes/blob/main/LICENSE)
 which allows very broad use for both academic and commercial purposes.
 
 You are very welcome to modify and use this source-code in your own project.
