@@ -16,7 +16,9 @@ Python unless otherwise noted.
 
 - **Rejection Sampling** ([Notebook](https://github.com/Hvass-Labs/Code-Recipes/blob/main/Rejection-Sampling.ipynb)) ([Google Colab](https://colab.research.google.com/github/Hvass-Labs/Code-Recipes/blob/main/Rejection-Sampling.ipynb)) </br> Generate random numbers using Rejection Sampling which works for most Probability Density Functions (PDF).
 
-- **Resample KDE** ([Notebook](https://github.com/Hvass-Labs/Code-Recipes/blob/main/Resample-KDE.ipynb)) ([Google Colab](https://colab.research.google.com/github/Hvass-Labs/Code-Recipes/blob/main/Resample-KDE.ipynb)) </br> Resample a Probability Density Function (PDF) estimator such as the Kernel Density Estimation (KDE) that has been fitted to some data. This is useful if you want to save and load the KDE without saving all the raw data. We then use Inverse Transform Sampling to generate random samples from the Cumulative Distribution Function (CDF). We also show how to draw random samples from a histogram.
+- **Inverse Transform Sampling** ([Notebook](https://github.com/Hvass-Labs/Code-Recipes/blob/main/Inverse-Transform-Sampling.ipynb)) ([Google Colab](https://colab.research.google.com/github/Hvass-Labs/Code-Recipes/blob/main/Inverse-Transform-Sampling.ipynb)) </br> Generate random numbers using Inverse Transform Sampling of a Cumulative Distribution Function (CDF).
+
+- **Resample KDE** ([Notebook](https://github.com/Hvass-Labs/Code-Recipes/blob/main/Resample-KDE.ipynb)) ([Google Colab](https://colab.research.google.com/github/Hvass-Labs/Code-Recipes/blob/main/Resample-KDE.ipynb)) </br> Resample a Probability Density Function (PDF) estimator such as the Kernel Density Estimation (KDE) that has been fitted to some data. This is useful if you want to save and load the KDE without saving all the raw data. We also show how to draw random samples from a histogram.
 
 
 ## Run in Google Colab
