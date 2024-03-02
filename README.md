@@ -14,6 +14,8 @@ Python unless otherwise noted.
 
 ## Recipes
 
+- **Rate Limiter** ([Notebook](https://github.com/Hvass-Labs/Code-Recipes/blob/main/Rate-Limiter.ipynb)) ([Google Colab](https://colab.research.google.com/github/Hvass-Labs/Code-Recipes/blob/main/Rate-Limiter.ipynb)) </br> Throttle events that are too rapid using the simple and efficient "wait-until" algorithm, which also works well in multi-threaded / distributed environments. (Python and MongoDB)
+
 - **Rejection Sampling** ([Notebook](https://github.com/Hvass-Labs/Code-Recipes/blob/main/Rejection-Sampling.ipynb)) ([Google Colab](https://colab.research.google.com/github/Hvass-Labs/Code-Recipes/blob/main/Rejection-Sampling.ipynb)) </br> Generate random numbers using Rejection Sampling which works for most Probability Density Functions (PDF).
 
 - **Inverse Transform Sampling** ([Notebook](https://github.com/Hvass-Labs/Code-Recipes/blob/main/Inverse-Transform-Sampling.ipynb)) ([Google Colab](https://colab.research.google.com/github/Hvass-Labs/Code-Recipes/blob/main/Inverse-Transform-Sampling.ipynb)) </br> Generate random numbers using Inverse Transform Sampling of a Cumulative Distribution Function (CDF).
